@@ -14,6 +14,9 @@ import static spark.Spark.port;
 /**
  * Hello world!
  */
+/*
+Chinh sua tren server
+*/
 public class App {
     public static void main(String[] args) {
         LoadingCache<Integer, LinkedHashSet<Integer>> primeCache =
