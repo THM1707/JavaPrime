@@ -15,7 +15,7 @@ import static spark.Spark.port;
  * Hello world!
  */
 /*
-Chinh sua tren server
+Chinh sua hop nhat giua server & client
 */
 public class App {
     public static void main(String[] args) {
