@@ -48,13 +48,12 @@ public class App {
     }
 
     private static boolean isPrime(int n) {
-        boolean result = true;
         int i;
         for (i = 2; i <= Math.sqrt(n); i++) {
             if (n % i == 0) {
-                result = false;
+                return false;
             }
         }
-        return result;
+        return true;
     }
 }
