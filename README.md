@@ -1,1 +1,1 @@
-Just some prime listing service // chinh sua tren client
+Just some prime listing service // chinh sua tren client va server
