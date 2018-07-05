@@ -1,1 +1,1 @@
-Just some prime listing service // server
+Just some prime listing service // chinh sua tren server
